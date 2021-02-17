@@ -1,2 +1,2 @@
-# canvas-app-boilerplate
-Create JS canvas app with matter js physics and GSAP animations exported using Webpack.
+# matter js canvas gsap js ticker render
+Matter Js template with GSAP animation rendering
